@@ -2,8 +2,6 @@ using System;
 using System.Collections.Generic;
 using dart.series.Interfaces;
 
-
-
 namespace dart.series
 {
 	public class SerieRepositorio : IRepositorio<Serie>

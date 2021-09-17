@@ -1,0 +1,16 @@
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.csproj.AssemblyReference.cache
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.GeneratedMSBuildEditorConfig.editorconfig
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.AssemblyInfoInputs.cache
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.AssemblyInfo.cs
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.csproj.CoreCompileInputs.cache
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series.deps.json
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series.runtimeconfig.json
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series.runtimeconfig.dev.json
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series.dll
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/ref/dart.series.dll
+/home/dartanham/Documentos/dart.series/bin/Debug/net5.0/dart.series.pdb
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.dll
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/ref/dart.series.dll
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.pdb
+/home/dartanham/Documentos/dart.series/obj/Debug/net5.0/dart.series.genruntimeconfig.cache

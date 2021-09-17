@@ -4,7 +4,7 @@ namespace dart.series
 {
     class Program
     {
-static SerieRepositorio repositorio = new SerieRepositorio();
+        static SerieRepositorio repositorio = new SerieRepositorio();
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();
@@ -66,6 +66,7 @@ static SerieRepositorio repositorio = new SerieRepositorio();
 			Console.Write("Digite o id da série: ");
 			int indiceSerie = int.Parse(Console.ReadLine());
 
+			
 			foreach (int i in Enum.GetValues(typeof(Genero)))
 			{
 				Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
@@ -114,6 +115,7 @@ static SerieRepositorio repositorio = new SerieRepositorio();
 		{
 			Console.WriteLine("Inserir nova série");
 
+			
 			foreach (int i in Enum.GetValues(typeof(Genero)))
 			{
 				Console.WriteLine("{0}-{1}", i, Enum.GetName(typeof(Genero), i));
@@ -142,7 +144,7 @@ static SerieRepositorio repositorio = new SerieRepositorio();
         private static string ObterOpcaoUsuario()
 		{
 			Console.WriteLine();
-			Console.WriteLine("Dart Séries Informações!!!");
+			Console.WriteLine("Dart Séries Cadastros e Consultas!!!");
 			Console.WriteLine("Informe a opção desejada:");
 
 			Console.WriteLine("1- Listar séries");
@@ -157,5 +159,6 @@ static SerieRepositorio repositorio = new SerieRepositorio();
 			string opcaoUsuario = Console.ReadLine().ToUpper();
 			Console.WriteLine();
 			return opcaoUsuario;
+		}
     }
 }

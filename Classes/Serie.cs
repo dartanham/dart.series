@@ -24,7 +24,8 @@ namespace dart.series
 
         public override string ToString()
 		{
-			string retorno = "";
+			// Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
+            string retorno = "";
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
